@@ -1,0 +1,3 @@
+Traceback (most recent call last):
+  File "<pyshell#110>", line 2, in <module>
+Exception: これはエラーメッセージです
